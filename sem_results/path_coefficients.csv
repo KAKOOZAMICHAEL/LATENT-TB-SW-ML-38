@@ -1,0 +1,7 @@
+Pathway,Estimate,Std_Error,Type,t_statistic,p_value,CI_lower,CI_upper,Significant
+Funding -> Treatment Success (DIRECT),0.15,0.08,Direct,1.875,0.07055743887948385,-0.0068000000000000005,0.30679999999999996,False
+Funding -> Capacity -> Treatment Success (INDIRECT),0.24,0.1,Indirect,2.4,0.02280643702443519,0.043999999999999984,0.436,True
+Funding -> Capacity -> Disease Burden -> Treatment Success (INDIRECT),0.08,0.06,Indirect,1.3333333333333335,0.19245906911500388,-0.037599999999999995,0.1976,False
+Capacity -> Treatment Success (DIRECT),0.32,0.09,Direct,3.555555555555556,0.0012738351418115634,0.1436,0.4964,True
+Capacity -> Effectiveness -> Treatment Success (INDIRECT),0.18,0.08,Indirect,2.25,0.03193935486067456,0.0232,0.3368,True
+Treatment Success -> Mortality (DIRECT),-0.45,0.12,Direct,-3.7500000000000004,0.0007553272668157085,-0.6852,-0.21480000000000002,True
