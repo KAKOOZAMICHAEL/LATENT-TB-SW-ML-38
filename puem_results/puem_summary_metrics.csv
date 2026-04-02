@@ -1,0 +1,26 @@
+metric,value
+National prevalence estimate (%),31.2000
+95% CI lower (%),30.9657
+95% CI upper (%),31.4259
+Bootstrap std dev (pp),0.1189
+MAE vs holdout (pp),6.9969
+RMSE vs holdout (pp),7.8924
+AUC-ROC,0.6380
+Recall,0.3846
+Precision,1.0000
+F1 score,0.5556
+Log loss,0.6310
+Iterations to convergence,18
+Final log-likelihood,-8057.3858
+Spearman r vs Survey,0.4590
+Spearman p-value,0.010736
+Precision@30,0.5333
+Uniform cost (UGX),400500351872
+Targeted cost (UGX),256776417752
+Saving (UGX),143723934119
+Saving (USD),38326382
+Saving (%),35.89
+TP,7
+FP,0
+FN,6
+TN,0

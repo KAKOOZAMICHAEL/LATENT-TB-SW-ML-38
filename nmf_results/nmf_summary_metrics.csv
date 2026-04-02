@@ -1,0 +1,20 @@
+metric,value
+Reconstruction error (relative %),42.6898
+Frobenius error,16.2486
+Variance explained (%),50.1194
+Pearson r vs Survey LTBI,0.3471
+Pearson p-value,0.060188
+Spearman r vs Survey LTBI,0.3691
+Spearman p-value,0.044738
+Stability mean error (%),42.6927
+Stability std dev (%),0.0312
+Precision (top-quartile),1.0000
+Recall (top-quartile),0.3333
+F1 (top-quartile),0.5000
+Uniform strategy cost (UGX),268949639948
+Targeted strategy cost (UGX),200013758780
+Estimated saving (UGX),68935881167
+Estimated saving (USD),18382902
+Saving (%),25.63
+Optimal rank (r),6
+Top component label,malnutrition-poverty-malnutrition-poverty component-1
