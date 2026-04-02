@@ -1,0 +1,7 @@
+*.txt
+*.docx
+*.pdf
+.venv/
+__pycache__/
+*.pyc
+.DS_Store

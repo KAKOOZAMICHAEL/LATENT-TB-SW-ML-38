@@ -1,0 +1,7 @@
+Scenario,Funding_Change_Percent,Predicted_Treatment_Success_Percent,Predicted_Mortality_Per_100k,Direct_Effect,Indirect_Effect,Total_Effect
+No change (0%),0.0,75.0,20.0,0.0,0.0,0.0
+Increase 10%,10.0,75.6804,19.84691,0.015,0.00768,0.02268
+Increase 20%,20.0,76.3608,19.69382,0.03,0.01536,0.04536
+Increase 30%,30.0,77.0412,19.54073,0.045,0.023039999999999998,0.06803999999999999
+Increase 50%,50.0,78.402,19.23455,0.075,0.0384,0.1134
+Decrease 20%,-20.0,73.6392,20.30618,-0.03,-0.01536,-0.04536
