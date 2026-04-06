@@ -1,9 +1,6 @@
 import gradio as gr
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 from pathlib import Path
-import numpy as np
 from puem_part4 import main as puem_main
 
 # Set up matplotlib for non-interactive backend
@@ -87,5 +84,4 @@ def create_interface():
 
 if __name__ == "__main__":
     demo = create_interface()
-    demo.launch()</content>
-<parameter name="filePath">c:\Users\miche\Desktop\Latent Tuberculosis\app.py
+    demo.launch()
