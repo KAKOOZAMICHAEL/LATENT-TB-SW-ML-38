@@ -14,5 +14,5 @@ jobs:
           lfs: true
       - name: Push to hub
         env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push --force https://KAKOOZAMICHAEL:$HF_TOKEN@huggingface.co/spaces/KAKOOZAMICHAEL/LATENT-TB-SW-ML-38 main
+          HFTOKEN: ${{ secrets.HFTOKEN }}
+        run: git push --force https://KAKOOZAMICHAEL:$HFTOKEN@huggingface.co/spaces/KAKOOZAMICHAEL/LATENT-TB-SW-ML-38 main
